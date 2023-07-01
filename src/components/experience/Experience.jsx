@@ -114,6 +114,11 @@ const data_technicals = [
     technology_name: "Postman",
     icons: <SiPostman />,
   },
+  {
+    id: 7,
+    technology_name: "Insomnia",
+    icons: <SiInsomnia />,
+  },
 ];
 const Experience = () => {
   return (
