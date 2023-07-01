@@ -4,7 +4,7 @@ import { BsFillBootstrapFill, BsGithub } from "react-icons/bs";
 import { DiCss3, DiJavascript1, DiLinux } from "react-icons/di";
 import { AiFillHtml5, AiOutlineCopyrightCircle } from "react-icons//ai";
 import { FaReact, FaGitAlt } from "react-icons/fa";
-import { SiMysql, SiPython, SiMongodb, SiFilezilla, SiPostman,SiInsomnia } from "react-icons/si";
+import { SiMysql, SiPython, SiMongodb, SiFilezilla, SiPostman,SiInsomnia,SiExpress } from "react-icons/si";
 import { TbBrandSocketIo, TbBrandVscode } from "react-icons/tb";
 import { IoLogoNodejs } from "react-icons/io";
 import { CgCPlusPlus } from "react-icons/cg";
@@ -45,16 +45,21 @@ const data_backend = [
   },
   {
     id: 2,
+    technology_name: "Express JS",
+    icons: <SiExpress />,
+  },
+  {
+    id: 3,
     technology_name: "MySQL",
     icons: <SiMysql />,
   },
   {
-    id: 3,
+    id: 4,
     technology_name: "MongoDB",
     icons: <SiMongodb />,
   },
   {
-    id: 4,
+    id: 5,
     technology_name: "SocketIo",
     icons: <TbBrandSocketIo />,
   },
