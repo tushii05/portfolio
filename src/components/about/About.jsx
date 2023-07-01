@@ -41,7 +41,7 @@ const About = () => {
 
           <div className="about__para">
             <p>
-              Hello everyone! I'm <span className="spn">Tushar Deshmukh, and i hail </span> from{" "}
+              Hello everyone! I'm <span className="spn">Tushar Deshmukh, </span> and i hail from{" "}
               <span className="spn">Bhopal, India.</span>  I am thrilled to introduce myself as a Computer Science
               and Engineering graduate with a specialization in Web Development and Node.js Development.
               <br /> <br /> My proficiency in JavaScript enables me to create robust and secure applications,
