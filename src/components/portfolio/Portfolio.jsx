@@ -23,7 +23,7 @@ const data = [
     title: "LifeTime Lottery Client Project",
     github:
       "https://github.com/tushii05/LifeTime-Lotto",
-    demo: "http://159.223.51.198:3001",
+    demo: "http://192.241.206.36:5000",
   },
   {
     id: uuid(),
